@@ -7,6 +7,7 @@ USER_CREDENTIALS = {
     "abdusemed": "1234",
     "mubarik": "9887",
     "welela": "1000"
+    ""hayatu": "8100"
 }
 
 # --- SESSION ---
