@@ -7,7 +7,8 @@ USER_CREDENTIALS = {
     "abdusemed": "1234",
     "mubarik": "9887",
     "welela": "1000",
-    "fedlu": "8199"
+    "fedlu": "8199",
+    "bint_abiha":"8100"
     
 }
 
